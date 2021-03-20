@@ -1,0 +1,20 @@
+.cards{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.card{
+  width: 150px;
+  height: 250px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px 30px;
+  position: relative;
+  box-shadow: 0 0 2px #EA8E04;
+  border: 1px solid #EA8E04;
+}
+.card img{
+  height: 100px;
+  object-fit: cover;
+}

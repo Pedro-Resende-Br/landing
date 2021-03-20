@@ -1,0 +1,16 @@
+.banner{
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  padding: 70px 35px;
+}
+
+.banner h1{
+  font-weight: bold;
+  color: #292b2f;
+}
+.banner h2{
+  font-weight: lighter;
+  color: #4b4b4d;
+  margin-bottom: 50px;
+}
